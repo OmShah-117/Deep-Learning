@@ -1,1 +1,6 @@
+Battery Thermal Runaway Predictor
+This project develops a machine learning-based system to predict thermal runaway risk in electric vehicle (EV) batteries using real-time sensor data. Thermal runaway is a hazardous condition characterized by uncontrollable temperature rise, posing safety risks during battery charging and operation.
 
+The solution leverages Gradient Boosting Classifier and Regressor models trained on EV battery charging data, incorporating input features such as voltage, current, temperature, internal resistance, pressure, and state of charge. The classifier predicts the binary risk status (high or low), while the regressor estimates the probability of thermal runaway, enabling early warning and preventive battery management.
+
+A user-friendly Streamlit web application is implemented for interactive input entry, robust validation, and visualization of classification and regression results in real time. This tool aims to enhance battery safety and reliability by enabling proactive risk mitigation.
