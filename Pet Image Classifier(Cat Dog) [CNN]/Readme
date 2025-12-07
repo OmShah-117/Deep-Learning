@@ -1,4 +1,4 @@
-Project Overvie
+Project Overview
 This repository contains a complete machine learning solution for binary classification of pet images. The core of the project is a deep learning model—a Convolutional Neural Network (CNN)—trained to accurately distinguish between images of cats and dogs.
 The project provides both the model training pipeline and an easy-to-use application for real-time inference.
 Key Features
