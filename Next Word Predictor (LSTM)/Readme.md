@@ -57,12 +57,11 @@ streamlit run app.py
 
 ## 🧪 Experimentation & Learning
 
-This project is intentionally designed to be modifiable:
-Replace the training dataset.
-Retrain the model with better text corpora.
-Adjust sequence length.
-Improve prediction logic.
-Enhance UI styling.
-👉 Try changing or improving data, this is an example demonstrating knowledge of mine.
+- This project is intentionally designed to be modifiable:
+- Replace the training dataset.
+- Retrain the model with better text corpora.
+- Adjust sequence length.
+- Improve prediction logic.
+- Enhance UI styling.
 
 
