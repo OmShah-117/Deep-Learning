@@ -38,6 +38,37 @@ As the user types, the model generates text in real-time, visually separating **
 
 ---
 
-## 📂 Project Structure
+## ⚙️ How It Works
+
+1. User types text into the input box
+2. Text is tokenized and padded
+3. The model predicts the most probable next word
+4. The prediction is appended to the input
+5. Steps repeat to generate a short sequence
+
+The predicted words appear in a **ghost-text style**, making the model’s “thought process” easy to visualize.
+
+---
+
+## ▶️ Running the App Locally
+streamlit run app.py
+
+---
+
+## 🧪 Experimentation & Learning
+
+This project is intentionally designed to be modifiable:
+
+Replace the training dataset
+
+Retrain the model with better text corpora
+
+Adjust sequence length
+
+Improve prediction logic
+
+Enhance UI styling
+
+👉 Try changing or improving data — this is an example demonstrating knowledge of mine.
 
 
