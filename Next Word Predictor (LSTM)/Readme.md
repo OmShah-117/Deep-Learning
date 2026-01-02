@@ -50,12 +50,12 @@ The predicted words appear in a **ghost-text style**, making the model’s “th
 
 ---
 
-## ▶️ Running the App Locally
+## Running the App Locally
 streamlit run app.py
 
 ---
 
-## 🧪 Experimentation & Learning
+## Experimentation & Learning
 
 - This project is intentionally designed to be modifiable:
 - Replace the training dataset.
