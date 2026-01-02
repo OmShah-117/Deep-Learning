@@ -1,4 +1,4 @@
-# Data Science Intel – Next Word Prediction App
+# Data Science Intel : Next Word Prediction App
 
 An elegant **Next Word Prediction** web application built using **Deep Learning (LSTM)** and **Streamlit**.  
 This project demonstrates my understanding of **NLP pipelines, model loading, tokenization, and real-time inference** in a clean, interactive UI.
