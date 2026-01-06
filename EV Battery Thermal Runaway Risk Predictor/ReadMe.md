@@ -110,14 +110,3 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
----
-
-.
-├── app.py                     # Streamlit application
-├── xgb_classifier.pkl         # Trained classification model
-├── xgb_regressor.pkl          # Trained regression model
-├── dataset.csv                # Sample / demo dataset
-├── notebook.ipynb             # Model training & experimentation
-├── requirements.txt           # Dependencies
-└── README.md                  # Project documentation
-
