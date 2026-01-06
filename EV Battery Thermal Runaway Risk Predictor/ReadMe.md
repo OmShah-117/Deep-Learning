@@ -66,7 +66,7 @@ The model expects numerical battery parameters such as:
 
 ## Model Performance & Evaluation
 
-### 📏 Evaluation Metrics Used
+### Evaluation Metrics Used
 
 - **Classifier**
   - Accuracy
@@ -78,7 +78,7 @@ The model expects numerical battery parameters such as:
   - Mean Squared Error (MSE)
   - R² Score
 
-### 📊 Model Performance Summary
+### Model Performance Summary
 
 - Classifier performs well on balanced demo data
 - Regression model provides smooth probability estimates
@@ -86,7 +86,7 @@ The model expects numerical battery parameters such as:
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - Trained on **synthetic / limited dataset**
 - Not validated on real EV battery systems
@@ -95,7 +95,7 @@ The model expects numerical battery parameters such as:
 
 ---
 
-## 🧰 Installation & Setup
+## Installation & Setup
 
 ```bash
 # Clone the repository
