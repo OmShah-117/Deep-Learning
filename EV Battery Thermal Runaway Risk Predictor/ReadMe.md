@@ -117,3 +117,7 @@ pip install -r requirements.txt
 - 🔴 High Risk or 🟢 Low Risk classification
 - 📊 Estimated probability of thermal runaway
 - Clear UI feedback for safer decision interpretation
+
+---
+
+⭐ If you found this project helpful, consider giving it a star!
