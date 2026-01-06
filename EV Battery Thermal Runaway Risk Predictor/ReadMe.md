@@ -35,7 +35,7 @@ The application is designed as a **demo/educational project** showcasing applied
 
 ---
 
-## 📂 Dataset / Inputs
+##  Dataset / Inputs
 
 The model expects numerical battery parameters such as:
 
