@@ -110,3 +110,10 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+---
+
+## Results / Output
+
+- 🔴 High Risk or 🟢 Low Risk classification
+- 📊 Estimated probability of thermal runaway
+- Clear UI feedback for safer decision interpretation
