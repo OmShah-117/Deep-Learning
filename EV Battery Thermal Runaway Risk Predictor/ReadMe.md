@@ -35,7 +35,7 @@ The application is designed as a **demo/educational project** showcasing applied
 
 ---
 
-##  Dataset / Inputs
+## Dataset / Inputs
 
 The model expects numerical battery parameters such as:
 
@@ -48,11 +48,11 @@ The model expects numerical battery parameters such as:
 - Internal Resistance (mΩ)
 - Pressure (kPa)
 
-> ⚠️ Note: The dataset used for training is for **demonstration purposes only** and does not represent real-world certified EV battery data.
+> Note: The dataset used for training is for **demonstration purposes only** and does not represent real-world certified EV battery data.
 
 ---
 
-## ⚙️ How It Works (High-Level)
+## How It Works (High-Level)
 
 1. User inputs battery parameters through the Streamlit UI
 2. Inputs are validated against predefined safe operating ranges
@@ -64,7 +64,7 @@ The model expects numerical battery parameters such as:
 
 ---
 
-## 🧪 Model Performance & Evaluation
+## Model Performance & Evaluation
 
 ### 📏 Evaluation Metrics Used
 
