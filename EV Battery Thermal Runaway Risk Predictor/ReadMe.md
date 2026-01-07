@@ -5,7 +5,7 @@ Built with a focus on **safety analytics**, **explainability**, and **practical 
 
 ---
 
-## Short Description.
+## Short Description
 
 This project uses **XGBoost-based classification and regression models** to assess whether an electric vehicle (EV) battery is at **high or low risk of thermal runaway**, and estimates the **probability of occurrence** using key electrical, thermal, and environmental features.
 
