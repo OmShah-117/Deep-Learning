@@ -13,7 +13,7 @@ The application is designed as a **demo/educational project** showcasing applied
 
 ---
 
-## Tech Stack / Tools Used.
+## Tech Stack / Tools Used
 
 - **Programming Language:** Python 🐍  
 - **Web Framework:** Streamlit  
