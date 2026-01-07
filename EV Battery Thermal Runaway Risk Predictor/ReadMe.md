@@ -1,11 +1,11 @@
-# 🔋 EV Battery Thermal Runaway Risk Predictor
+# 🔋 EV Battery Thermal Runaway Risk Predictor.
 
 A machine learning–powered web application that predicts the **risk and probability of thermal runaway in EV batteries** based on real-time battery parameters.  
 Built with a focus on **safety analytics**, **explainability**, and **practical deployment** using Streamlit.
 
 ---
 
-## Short Description
+## Short Description.
 
 This project uses **XGBoost-based classification and regression models** to assess whether an electric vehicle (EV) battery is at **high or low risk of thermal runaway**, and estimates the **probability of occurrence** using key electrical, thermal, and environmental features.
 
@@ -13,7 +13,7 @@ The application is designed as a **demo/educational project** showcasing applied
 
 ---
 
-## Tech Stack / Tools Used
+## Tech Stack / Tools Used.
 
 - **Programming Language:** Python 🐍  
 - **Web Framework:** Streamlit  
