@@ -1,4 +1,4 @@
-# 🔋 EV Battery Thermal Runaway Risk Predictor.
+# 🔋 EV Battery Thermal Runaway Risk Predictor
 
 A machine learning–powered web application that predicts the **risk and probability of thermal runaway in EV batteries** based on real-time battery parameters.  
 Built with a focus on **safety analytics**, **explainability**, and **practical deployment** using Streamlit.
